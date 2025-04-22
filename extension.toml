@@ -1,0 +1,7 @@
+id = "plaxdan-zed-theme"
+name = "Plaxdan Theme"
+version = "0.0.1"
+schema_version = 2
+authors = ["Daniel Walker <plaxdan@gmail.com>"]
+description = "Customized Ayu Mirage and Solarized Light"
+repository = "https://github.com/plaxdan/plaxdan-zed-theme"
