@@ -444,9 +444,9 @@
         ],
         "predictive": "#824d5b",
         "renamed": "#ac5402",
-        "scrollbar.thumb.background": "#a4c1c2BF",
+        "scrollbar.thumb.background": "#a4c1c23F",
         "scrollbar.thumb.hover_background": "#a4c1c2",
-        "scrollbar.track.background": "#e7d2be3F",
+        "scrollbar.track.background": "#f6f2ee3F",
         "search.match_background": "#a4c1c2",
         "status_bar.background": "#e4dcd4",
         "success": "#396847",
@@ -457,7 +457,8 @@
             "color": "#7f5152"
           },
           "comment": {
-            "color": "#837a72"
+            "color": "#837a72",
+            "font_style": "italic"
           },
           "comment.doc": {
             "color": "#837a72"
